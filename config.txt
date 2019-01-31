@@ -1,0 +1,6 @@
+owner=507975509473361930
+prefix=1
+game=1play | univers server
+stayinchannel=true
+songinstatus=false
+token=NTQwNTMwODk2Mjg1OTkwOTIz.DzSRPQ.DEomYIIEv6jbS3w_mc6JUZ0iHLU
